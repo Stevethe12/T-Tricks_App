@@ -1,0 +1,5 @@
+﻿  gameboard.cpp
+c:\users\steve pharand\desktop\t-tricks_app\t-tricks\gameboard.cpp(246): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+  gamewindow.cpp
+  Génération de code en cours...
+  T-Tricks.vcxproj -> C:\Users\Steve Pharand\Desktop\T-tricks_App\T-Tricks\debug\T-Tricks.exe
